@@ -22,7 +22,7 @@ Currently completing my Information Systems degree while seeking entry-level rol
 | Hardware Support | PC Assembly, Peripheral Setup, Cable Management, Troubleshooting and Replacement, POS systems |
 | Productivity | Used Google/Microsoft workspace to document and manage SKU databases ensuring accurate and timely data entries |
 | Ticketing | Atlassian Package (Confluence, Jira, , OpsGenie, ServiceNow, Zendesk)|
-| Team Communication | Slack, Microsoft Teams |
+| Team Communication | Slack, Microsoft Teams, Zoom, Google Meet |
 | User/Role Management | Permissions, Automatted workflows in multi-user collaboration platforms, Entra ID (basic) |
 | Basic Coding Languages | HTML, JavaScript, Python, SQL, C++ |
 
