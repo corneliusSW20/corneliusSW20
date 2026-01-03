@@ -35,14 +35,15 @@ Currently completing my Information Systems degree while seeking entry-level rol
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23172B4D?style=for-the-badge&logo=confluence">
   <img alt="Otter" src="https://img.shields.io/badge/Otter-%23FC7E0F?style=for-the-badge">
   <img alt="Slack" src="https://img.shields.io/badge/Slack-%237F2B7B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Azure-cloud-blue?logo=microsoft-azure" alt="Azure badge">
+
 </div>
 
 ## Certificates
 
-### Certificates
-
-- [LinkedIn Learning Certificate: Microsoft 365 Essentials](https://www.linkedin.com/learning/certificates/8099f49471dc15a492e57b5943fdedaa5cfecd60ef169cebefde3ffe43f3750d)
-
+- [Microsoft 365 Essentials](https://www.linkedin.com/learning/certificates/8099f49471dc15a492e57b5943fdedaa5cfecd60ef169cebefde3ffe43f3750d)
+- [Computer Components and Peripherals for IT Technicians](https://www.linkedin.com/learning/certificates/8099f49471dc15a492e57b5943fdedaa5cfecd60ef169cebefde3ffe43f3750d)
+- [IT Help Desk](https://www.linkedin.com/learning/certificates/db06aab12a8f864d2b6b365bd27e77c5ee26fadc40e8e4a4ab28d60615b1fecb)
 
 <!---
 corneliusSW20/corneliusSW20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
