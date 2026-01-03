@@ -35,7 +35,9 @@ Currently completing my Information Systems degree while seeking entry-level rol
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23172B4D?style=for-the-badge&logo=confluence">
   <img alt="Otter" src="https://img.shields.io/badge/Otter-%23FC7E0F?style=for-the-badge">
   <img alt="Slack" src="https://img.shields.io/badge/Slack-%237F2B7B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Azure-cloud-blue?logo=microsoft-azure" alt="Azure badge">
+  <img src="https://img.shields.io/badge/Azure-cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"
+  alt="Microsoft Azure badge"/>
+
 
 </div>
 
