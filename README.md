@@ -37,6 +37,11 @@ Currently completing my Information Systems degree while seeking entry-level rol
   <img alt="Slack" src="https://img.shields.io/badge/Slack-%237F2B7B?style=for-the-badge">
 </div>
 
+## Certificates
+
+### Certificates
+
+- [LinkedIn Learning Certificate: Microsoft 365 Essentials](https://www.linkedin.com/learning/certificates/8099f49471dc15a492e57b5943fdedaa5cfecd60ef169cebefde3ffe43f3750d)
 
 
 <!---
