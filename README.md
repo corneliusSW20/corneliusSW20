@@ -13,6 +13,7 @@ Currently completing my Information Systems degree while seeking entry-level rol
 - Diagnose and Resolve Hardware, Software, and Access Problems in order to create seemless user experiences.
 - Administer User Accounts and Permissions applying least privilege principles to minimize security risk.
 - Continue to learn and develop new skills to expand exerpertise in IT operations and service delivery.
+- Most importantly BE MYSELF!
 
 ## Technical Skills
 
