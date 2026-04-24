@@ -1,5 +1,5 @@
 # Welcome in!
-<a href="https://www.linkedin.com/in/corneliusdearyjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/corneliusdearyjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="[https://www.linkedin.com/in/corneliusdearyjr/](https://bold.pro/my/cornelius-dearyjr-260424130627)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Tech-savvy and solutions oriented individual looking to transition into IT with 3+ years hands on experience providing Tier 1 support in a fast paced environment. Mainly troubleshooting hardware/software issues, managing internal systems, and maintaining data accuracy through previous job roles. 
 
